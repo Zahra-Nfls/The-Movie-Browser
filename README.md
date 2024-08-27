@@ -33,6 +33,5 @@
 	<code><img width="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/></code>
 </div>
 
-![Movie-Browser](https://github-readme-stats.vercel.app/api/top-langs/?username=zaraana&hide=other&langs_count=10&layout=compact&exclude_repo=Movie-Browser)
 
 # 𝙻𝚒𝚗𝚔 𝚝𝚘 𝚝𝚑𝚎 𝙰𝚙𝚙

@@ -2,7 +2,6 @@ import { useState, useEffect } from 'react';
 import axios from 'axios';
 import { Link } from 'react-router-dom';
 import Header from '../Components/Header';
-import Footer from '../Components/Footer';
 import Slider from 'react-slick';
 import star from  './../assets/images/star.png';
 import play from  './../assets/images/play.png';
@@ -126,7 +125,8 @@ export default function Home() {
     ))}
 </div>
 </div>
-    <Footer/>
+    
         </>
     );
 }
+

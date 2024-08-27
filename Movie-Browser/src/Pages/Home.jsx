@@ -89,7 +89,7 @@ export default function Home() {
                                         <img className="ml-2 w-4 h-4" src={star} alt="star" />
                                     </div>
                                 </div>
-                            </Link>
+                            </Link> 
             </div>
             ))}
         </Slider>

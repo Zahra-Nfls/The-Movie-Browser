@@ -7,8 +7,10 @@ import star from  './../assets/images/star.png';
 import play from  './../assets/images/play.png';
 
 
-const API_KEY = import.meta.env.VITE_API_KEY; 
-const API_URL = import.meta.env.VITE_BASE_URL;
+
+
+const API_KEY = "3454649c439cac2c64b68732c5bd6ee2";
+const API_URL = "https://api.themoviedb.org/3";
 
 export default function Home() {
     const [topRatedMovies, setTopRatedMovies] = useState([]);

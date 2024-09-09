@@ -1,5 +1,5 @@
 
-<img width="70" align="left" src="Movie-Browser/src/assets/logo (2).png" alt="logo"/>
+<img width="70" align="left" src="src/assets/logo (2).png" alt="logo"/>
 
 # 𝚉-𝙵𝚕𝚒𝚡
 
@@ -23,15 +23,22 @@
 
 
 ## 𝙻𝚊𝚢𝚘𝚞𝚝
-<img  src="Movie-Browser/src/assets/images/Screenshot 2024-08-27 235144.png" alt="layout"/>
+<img  src="src/assets/images/Screenshot 2024-08-27 235144.png" alt="layout"/>  
 
 
 # 𝚄𝚜𝚎𝚍 𝚃𝚑𝚎𝚌𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 
 <div align="center">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
-	<code><img width="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/></code>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
+	<img width="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/>
 </div>
 
+# 𝙰𝚙𝚙 𝚂𝚌𝚛𝚎𝚎𝚗𝚜𝚑𝚘𝚝
+<img src="src/assets/images/Screenshot 2024-08-20 193027.png">
 
 # 𝙻𝚒𝚗𝚔 𝚝𝚘 𝚝𝚑𝚎 𝙰𝚙𝚙
+[Here!](https://movie-browser-zflix.vercel.app/)
+
+
+
+
